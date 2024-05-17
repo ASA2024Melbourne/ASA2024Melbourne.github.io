@@ -17,14 +17,15 @@ selected_papers: false # Set to true to have it display on front page. includes 
 social: false  # includes social icons at the bottom of the page
 ---
 
-** ASA AGM Melbourne Hub **
+**ASA AGM Melbourne Hub**
 <p>  Date:		Wednesday 26 June 2024 </p>
 <p> Location:  <a href="https://maps.unimelb.edu.au/point?identifier=PAR%3B192%3B2%3BL108">Laby Theatre at University of Melbourne</a>  </p>
 <p>Time: 		9.30am – 5.30pm, followed by conference dinner at 6pm </p>
 
 _ _ _ _ _
-<p> Cost:		$75 per head.  Please contact Rachel Webster if you cannot find the registration fee but would like to attend  <a href="mailto:R.webster@unimelb.edu.au">R.webster@unimelb.edu.au</a>  </p>
-Registration covers lunch, dinner (not drinks), morning and afternoon tea.
+<p> Cost:		$75 per head. </p>
+<p> Please contact Rachel Webster if you cannot find the registration fee but would like to attend  <a href="mailto:R.webster@unimelb.edu.au">R.webster@unimelb.edu.au</a> </p>
+<p> Registration covers lunch, dinner (not drinks), morning and afternoon tea.</p>
 
 _ _ _ _ _
 **Provisional Program:**
@@ -40,3 +41,4 @@ _ _ _ _ _
 
 _ _ _ _ _
 
+<p> Local Organising Committee: Thomas Hilder, Rachel Webster, Anais Möller </p>
