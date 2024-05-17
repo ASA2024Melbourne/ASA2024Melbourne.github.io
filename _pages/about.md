@@ -2,7 +2,7 @@
 layout: about
 title: ASA Hub Melbourne 2024
 permalink: /
-subtitle: at University of Melbourne
+subtitle: 
 description: 
 
 
@@ -17,7 +17,7 @@ selected_papers: false # Set to true to have it display on front page. includes 
 social: false  # includes social icons at the bottom of the page
 ---
 
-**ASA AGM Melbourne Hub**
+** ASA AGM Melbourne Hub **
 <p>  Date:		Wednesday 26 June 2024 </p>
 <p> Location: 	Laby Theatere at University of Melbourne</p>
 <p>Time: 		9.30am – 5.30pm, followed by conference dinner at 6pm </p>
@@ -27,16 +27,16 @@ _ _ _ _ _
 Registration covers lunch, dinner (not drinks), morning and afternoon tea.
 
 _ _ _ _ _
-** Provisional Program:**
+**Provisional Program:**
 
-* 9.30am	Panel: Future Astronomical Facilities (Names TBC)
-* 10.30am	Morning Coffee
-* 11.00-12.30	ASA National presentations
-* 12.30pm	Lunch
+* 9.30 am :	Panel Future Astronomical Facilities (Names TBC)
+* 10.30 am :	Morning Coffee
+* 11.00-12.30:	ASA National presentations
+* 12.30 pm :	Lunch
 * 1.30-3.00pm	ASA National presentations
-* 3.00pm 	Afternoon tea
-* 3.30-5.30pm	The Future of Australian Astronomy: my vision – a series of presentations with discussion by leading members of the Melbourne community (Names TBC)
-* 6pm		Conference dinner @ Naughton’s Pub on Royal Parade
+* 3.00 pm :	Afternoon tea
+* 3.30-5.30 pm :	The Future of Australian Astronomy (Names TBC)
+* 6pm	:	Conference dinner @ <a href="https://naughtonshotel.com.au/">Naughton’s Pub on Royal Parade </a>
 
 _ _ _ _ _
 
