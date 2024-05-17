@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 ** ASA AGM Melbourne Hub **
 <p>  Date:		Wednesday 26 June 2024 </p>
-<p> Location: 	Laby Theatere at University of Melbourne</p>
+<p> Location:  <a href="https://maps.unimelb.edu.au/point?identifier=PAR%3B192%3B2%3BL108">Laby Theatre at University of Melbourne</a>  </p>
 <p>Time: 		9.30am – 5.30pm, followed by conference dinner at 6pm </p>
 
 _ _ _ _ _
