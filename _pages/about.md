@@ -30,13 +30,14 @@ _ _ _ _ _
 _ _ _ _ _
 **Provisional Program:**
 
-* 9.30 am :	Panel Future Astronomical Facilities (Names TBC)
+* 9.30 am :	Panel Future Astronomical Facilities with Paul Lasky, Michelle Cluver, Emma Ryan-Weber, Adam Deller, Jarrod Hurley
 * 10.30 am :	Morning Coffee
 * 11.00-12.30:	ASA National presentations
 * 12.30 pm :	Lunch
 * 1.30-3.00pm	ASA National presentations
 * 3.00 pm :	Afternoon tea
-* 3.30-5.30 pm :	The Future of Australian Astronomy (Names TBC)
+* 3.30-3:45pm: Poster sparkler
+* 3:45-5.30 pm :	The Future of Australian Astronomy with Daniel Price, Chris Blake, Ilya Mandel, Nicole Bell, Jeff Cooke, Anais Möller
 * 6pm	:	Conference dinner @ <a href="https://naughtonshotel.com.au/">Naughton’s Pub on Royal Parade </a>
 
 _ _ _ _ _
