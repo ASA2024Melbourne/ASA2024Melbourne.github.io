@@ -41,4 +41,4 @@ _ _ _ _ _
 
 _ _ _ _ _
 
-<p> Local Organising Committee: Thomas Hilder (Monash), Rachel Webster (Uni Melbourne), Anais Möller (Swinburne) </p>
+<p> LOC: Thomas Hilder (Monash), Rachel Webster (Melbourne), Anais Möller (Swinburne) </p>
