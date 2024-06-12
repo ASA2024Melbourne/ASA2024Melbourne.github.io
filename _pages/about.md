@@ -26,7 +26,7 @@ _ _ _ _ _
 <p> Cost:		$75 per head. </p>
 <p> Please contact Rachel Webster if you cannot find the registration fee but would like to attend  <a href="mailto:R.webster@unimelb.edu.au">R.webster@unimelb.edu.au</a> </p>
 <p> Registration covers lunch, dinner (not drinks), morning and afternoon tea.</p>
-<p> <a href="https://www.eventbrite.com.au/e/asa-hub-melbourne-2024-tickets-919790627527"><strong>Click here to register for the event</strong></a>  </p>
+<p> <a style="font-weight:bold" href="https://www.eventbrite.com.au/e/asa-hub-melbourne-2024-tickets-919790627527">Click here to register for the event</a>  </p>
 
 _ _ _ _ _
 **Provisional Program:**
