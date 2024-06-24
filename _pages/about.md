@@ -38,7 +38,7 @@ _ _ _ _ _
 * 1.30-3.00pm	ASA National presentations
 * 3.00 pm :	Afternoon tea
 * 3.30-3:45pm: Poster sparkler
-* 3:45-5.30 pm :	The Future of Australian Astronomy with Daniel Price, Chris Blake, Ilya Mandel, Nicole Bell, Jeff Cooke, Anais Möller
+* 3:45-5.30 pm :	The Future of Australian Astronomy with Daniel Price, Chris Blake, Ilya Mandel, Nicole Bell, Jeff Cooke, Amanda Karakas, Anais Möller
 * 6pm	:	Conference dinner @ <a href="https://naughtonshotel.com.au/">Naughton’s Pub on Royal Parade </a>
 
 _ _ _ _ _
