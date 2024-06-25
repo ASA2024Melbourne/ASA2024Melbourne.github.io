@@ -29,18 +29,27 @@ _ _ _ _ _
 <p> <a href="https://www.eventbrite.com.au/e/asa-hub-melbourne-2024-tickets-919790627527">Click here to register for the event</a>  </p>
 
 _ _ _ _ _
-**Provisional Program:**
+**Program:**
 
-* 9.30 am :	Panel Future Astronomical Facilities with Paul Lasky, Michelle Cluver, Emma Ryan-Weber, Adam Deller, Jarrod Hurley
+* 9.30 am :	Panel Future Astronomical Facilities with Paul Lasky, Michelle Cluver, Emma Ryan-Weber, Adam Deller, Jarrod Hurley. Chaired by Jade Powell
 * 10.30 am :	Morning Coffee
-* 11.00-12.30:	ASA National presentations
+* 11.00-12.30:	ASA National presentations and prizes (inlcuding local prizes, see below)
 * 12.30 pm :	Lunch
-* 1.30-3.00pm	ASA National presentations
+* 1.30-3.00pm	ASA National presentations and prizes (inlcuding local prizes, see below)
 * 3.00 pm :	Afternoon tea
 * 3.30-3:45pm: Poster sparkler
-* 3:45-5.30 pm :	The Future of Australian Astronomy with Daniel Price, Chris Blake, Ilya Mandel, Nicole Bell, Jeff Cooke, Amanda Karakas, Anais Möller
+* 3:45-5.30 pm :	The Future of Australian Astronomy with Daniel Price, Chris Blake, Ilya Mandel, Nicole Bell, Jeff Cooke, Amanda Karakas, Anais Möller. Chaired by Simon Stevenson
 * 6pm	:	Conference dinner @ <a href="https://naughtonshotel.com.au/">Naughton’s Pub on Royal Parade </a>
 
+_ _ _ _ _
+**Locally awarded prizes:**
+
+**Bok Prize for outstanding research in astronomy by an Honours or eligible Masters student**
+ 
+<p> Tamsyn O’Beirne receives a Highly Commended for her Masters thesis “Exploring the Dark and Low Surface Brightness Universe with WALLABY” completed at ICRAR/UWA and supervised by Lister Staveley-Smith, Tobias Westmeier and Ivy Wong.</p>
+ 
+**David Allen Prize**
+<p>Awarded to Dr Sara Webb (Swinburne) for an impressive outreach presence, covering topics such as Dark Matter, Dark Energy, Women in Astronomy and Mysteries of the Universe, across numerous platforms, with a particular focus on educating young people via a diversity of outreach activities. </p>
 _ _ _ _ _
 
 <p> LOC: Thomas Hilder (Monash), Rachel Webster (Melbourne), Anais Möller (Swinburne) </p>
