@@ -35,7 +35,7 @@ _ _ _ _ _
 * 10.30 am :	Morning Coffee
 * 11.00-12.30:	ASA National presentations and prizes (inlcuding local prizes, see below)
 * 12.30 pm :	Lunch
-* 1.30-3.00pm	ASA National presentations and prizes (inlcuding local prizes, see below)
+* 1.30-3.20pm	ASA National presentations and prizes (inlcuding local prizes, see below)
 * 3.00 pm :	Afternoon tea
 * 3.30-3:45pm: Poster sparkler
 * 3:45-5.30 pm :	The Future of Australian Astronomy with Daniel Price, Chris Blake, Ilya Mandel, Nicole Bell, Jeff Cooke, Amanda Karakas, Anais Möller. Chaired by Simon Stevenson
